@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <radialGradient id="g" cx="35%" cy="25%" r="80%"><stop offset="0" stop-color="#f7dfaa"/><stop offset=".34" stop-color="#c89b5b"/><stop offset=".7" stop-color="#5b3f20"/><stop offset="1" stop-color="#080808"/></radialGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#080808"/>
+  <path d="M47 86 62 43l39 27c12-5 25-5 37 0l39-27 15 43-10 82-43 34-43-34z" fill="url(#g)" stroke="#c89b5b" stroke-width="4"/>
+  <path d="M83 106c10-13 25-20 37-20s27 7 37 20l-9 46-28 19-28-19z" fill="#090909"/>
+  <path d="M91 116c8-6 17-9 29-9s21 3 29 9" fill="none" stroke="#f2d39a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="105" cy="126" r="5" fill="#c89b5b"/><circle cx="135" cy="126" r="5" fill="#c89b5b"/>
+  <path d="M113 143q7 7 14 0" fill="none" stroke="#c89b5b" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="222" fill="#c89b5b" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="2">PANTHERS TECH LAB</text>
+</svg>
